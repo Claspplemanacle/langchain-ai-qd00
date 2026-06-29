@@ -1,4 +1,4 @@
-# 
+# Avançado LangChain extensões. Com UI personalizável e busca semântica — otimizado para máximo desempenho e eficiência.
 
 
 
